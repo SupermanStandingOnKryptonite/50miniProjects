@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
 * {
   box-sizing: border-box;
 }
 
 body{
-  font-family: "Fira Code Retina",monospace;
+  font-family: "Fira Code",monospace;
   display: flex;
   flex-direction: column;
   align-items: center;
